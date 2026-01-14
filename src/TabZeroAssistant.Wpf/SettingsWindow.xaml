@@ -1,0 +1,17 @@
+<Window x:Class="TabZeroAssistant.Wpf.SettingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:res="clr-namespace:TabZeroAssistant.Wpf.Resources"
+        Title="{x:Static res:Strings.SettingsTitle}" Height="280" Width="420">
+    <StackPanel Margin="16">
+        <CheckBox x:Name="TrackWindowTitles" Content="{x:Static res:Strings.SettingTrackWindow}" Margin="0,0,0,8" />
+        <CheckBox x:Name="ParanoiaMode" Content="{x:Static res:Strings.SettingParanoia}" Margin="0,0,0,8" />
+        <TextBlock Text="{x:Static res:Strings.SettingMode}" Margin="0,0,0,4" />
+        <ComboBox x:Name="ModeSelector" Margin="0,0,0,16">
+            <ComboBoxItem Content="{x:Static res:Strings.ModeWork}" Tag="Work" />
+            <ComboBoxItem Content="{x:Static res:Strings.ModeStudy}" Tag="Study" />
+            <ComboBoxItem Content="{x:Static res:Strings.ModeEvening}" Tag="Evening" />
+        </ComboBox>
+        <Button Content="{x:Static res:Strings.ButtonOk}" Width="120" HorizontalAlignment="Right" Click="OnSaveClicked" />
+    </StackPanel>
+</Window>

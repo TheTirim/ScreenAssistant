@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AppTitle" xml:space="preserve">
+    <value>TabZero Assistant</value>
+  </data>
+  <data name="MenuOpen" xml:space="preserve">
+    <value>Open</value>
+  </data>
+  <data name="MenuSettings" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="MenuExit" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="Send" xml:space="preserve">
+    <value>Send</value>
+  </data>
+  <data name="Suggestions" xml:space="preserve">
+    <value>Suggestions</value>
+  </data>
+  <data name="FeedbackPositive" xml:space="preserve">
+    <value>👍</value>
+  </data>
+  <data name="FeedbackNegative" xml:space="preserve">
+    <value>👎</value>
+  </data>
+  <data name="FeedbackNever" xml:space="preserve">
+    <value>Don't suggest</value>
+  </data>
+  <data name="SettingsTitle" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="SettingTrackWindow" xml:space="preserve">
+    <value>Window title tracking</value>
+  </data>
+  <data name="SettingParanoia" xml:space="preserve">
+    <value>Paranoia Mode (password at start)</value>
+  </data>
+  <data name="SettingMode" xml:space="preserve">
+    <value>Profile / Mode</value>
+  </data>
+  <data name="ModeWork" xml:space="preserve">
+    <value>Work</value>
+  </data>
+  <data name="ModeStudy" xml:space="preserve">
+    <value>Study</value>
+  </data>
+  <data name="ModeEvening" xml:space="preserve">
+    <value>Evening</value>
+  </data>
+  <data name="PlaceholderInput" xml:space="preserve">
+    <value>Type your message…</value>
+  </data>
+  <data name="MemoryCandidates" xml:space="preserve">
+    <value>Memory candidates</value>
+  </data>
+  <data name="ButtonSaveMemories" xml:space="preserve">
+    <value>Save selected</value>
+  </data>
+  <data name="NoServiceWarning" xml:space="preserve">
+    <value>Local service not reachable. Using offline reply.</value>
+  </data>
+  <data name="StartTimer" xml:space="preserve">
+    <value>Start timer</value>
+  </data>
+  <data name="OpenApp" xml:space="preserve">
+    <value>Open app</value>
+  </data>
+  <data name="SetMode" xml:space="preserve">
+    <value>Set mode</value>
+  </data>
+  <data name="ActionStartTimerLabel" xml:space="preserve">
+    <value>Start timer</value>
+  </data>
+  <data name="ActionOpenAppLabel" xml:space="preserve">
+    <value>Open app</value>
+  </data>
+  <data name="ActionSetModeLabel" xml:space="preserve">
+    <value>Set mode</value>
+  </data>
+  <data name="NotificationTimerStarted" xml:space="preserve">
+    <value>Timer started for {0} min.</value>
+  </data>
+  <data name="NotificationAppOpened" xml:space="preserve">
+    <value>Opened {0}.</value>
+  </data>
+  <data name="NotificationModeSet" xml:space="preserve">
+    <value>Mode set to {0}.</value>
+  </data>
+  <data name="NotificationMissingApp" xml:space="preserve">
+    <value>No app provided.</value>
+  </data>
+  <data name="NotificationUnsupported" xml:space="preserve">
+    <value>Action not supported.</value>
+  </data>
+  <data name="ConfirmOpenApp" xml:space="preserve">
+    <value>Open {0}?</value>
+  </data>
+  <data name="ButtonOk" xml:space="preserve">
+    <value>OK</value>
+  </data>
+</root>
