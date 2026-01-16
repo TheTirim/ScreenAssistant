@@ -1,4 +1,6 @@
-Lizenz – Freie Nutzung mit Namensnennung (Nicht-kommerziell)
+Copyright (c)2026 theTirim
+
+
 
 Diese Software darf frei genutzt, kopiert, verändert und weitergegeben werden,
 sofern dies ausschließlich zu nicht-kommerziellen Zwecken erfolgt.
