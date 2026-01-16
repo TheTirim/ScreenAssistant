@@ -1,0 +1,27 @@
+Lizenz – Freie Nutzung mit Namensnennung (Nicht-kommerziell)
+Copyright (c) theTirim
+
+Diese Software darf frei genutzt, kopiert, verändert und weitergegeben werden,
+sofern dies ausschließlich zu nicht-kommerziellen Zwecken erfolgt.
+
+Nicht erlaubt sind insbesondere:
+- der Verkauf der Software oder von daraus abgeleiteten Werken
+- die Nutzung der Software im Rahmen kommerzieller oder gewerblicher Tätigkeiten
+- die entgeltliche Weitergabe oder Einbindung in kostenpflichtige Produkte,
+  Dienstleistungen oder Angebote
+
+Bedingung:
+- Namensnennung: Bei jeder Nutzung, Veröffentlichung oder Weitergabe
+  muss der ursprüngliche Autor namentlich genannt werden.
+  Die Namensnennung hat mindestens in der Dokumentation,
+  in einem About-/Info-Bereich der Software
+  oder in begleitenden Materialien zu erfolgen.
+
+Haftungsausschluss:
+Diese Software wird ohne Gewähr bereitgestellt.
+Der Autor übernimmt keine Haftung für Schäden,
+soweit dies gesetzlich zulässig ist.
+
+Zusatz:
+- Die Lizenz gilt für die aktuelle Version sowie alle abgeleiteten Werke,
+  sofern keine abweichende schriftliche Vereinbarung mit dem Autor besteht.
