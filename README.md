@@ -1,4 +1,4 @@
-# TabZero Assistant (MVP)
+# Screen Assistant (MVP)
 
 Windows-only desktop assistant MVP with a WPF tray app and local FastAPI service.
 
