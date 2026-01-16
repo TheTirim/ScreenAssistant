@@ -2,6 +2,11 @@
 
 Windows-only desktop assistant MVP with a WPF tray app and local FastAPI service.
 
+## Lizenz
+
+Dieses Projekt steht unter der Lizenz „Freie Nutzung mit Namensnennung (Nicht-kommerziell)“.
+Details siehe [LICENSE.txt](LICENSE.txt).
+
 ## Prerequisites
 
 - Windows 10/11
